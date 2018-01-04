@@ -1,1 +1,3 @@
-# repository
+# Video game idea
+
+What on earth are you doing here, go to the actual website...
