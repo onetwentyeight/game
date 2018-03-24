@@ -1,0 +1,2 @@
+Warm: #f98866
+Cool: #80bd9e
