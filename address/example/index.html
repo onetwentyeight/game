@@ -31,7 +31,7 @@
 	<body>
 		!!Header
 		<!-- Start Title Section -->
-		 <section class="wow fadeIn bg-light-gray padding-50px-tb xs-padding-30px-tb page-title-very-large">
+		 <section class="wow fadeIn bg-light-gray padding-50px-tb xs-padding-30px-tb page-title-small">
 			<div class="container">
 				<div class="row equalize">
 					<div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 display-table">
@@ -40,15 +40,40 @@
 							<h1 class="text-extra-dark-gray alt-font no-margin font-weight-700">Address</h1>
 							<!-- end page title -->
 							<!-- start sub title -->
-							<span class="display-block text-extra-dark-gray text-medium alt-font">!!l-address</span>
+							<span class="display-block text-extra-dark-gray alt-font">!!l-address</span>
 							<!-- end sub title -->
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		<!-- end page title section -->
 		<!-- End Title Section -->
+		<!-- Start Summary Section -->
+		<section class="wow fadeIn">
+			<div class="col-md-8 col-sm-12 center-col last-paragraph-no-margin">
+				<table>
+					<tr>
+					<th colspan="2">Summary</th>
+				</tr>
+				<tr>
+					<td class="stack-mobile">Ballance</td>
+					<td class="stack-mobile">!l-!Ballance</td>
+				</tr>
+				<tr class="visible-desktop">
+					<td class="stack-mobile">SHA256</td>
+					<td class="stack-mobile">!!l-sha-256</td>
+				</tr>
+				<tr>
+					<td class="stack-mobile">Total Received</td>
+					<td class="stack-mobile">!!l-total-received</td>
+				</tr>
+				</table>
+			</div>
+			<div class="col-md-8 col-sm-12 center-col last-paragraph-no-margin">
+				<img src="../../images/qr.jpeg?data=!!l-address" class = "width-100"></img>
+			</div>
+		</section>
+		<!-- End Summary Section -->
 		!!Footer
 		<script type="text/javascript" src="../../js/modernizr.js"></script>
 		<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
