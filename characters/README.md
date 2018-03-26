@@ -8,7 +8,7 @@ This is a list of the Characters in Ingrasel
 
 * [Traveler](traveler)
 
-* [Soldier](solder)
+* [Soldier](soldier)
 
 * [Hunter](hunter)
 
