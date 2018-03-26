@@ -1,4 +1,4 @@
-# Traveler
+# Soldier
 
 The Soldier specialzes in briute force and straightforeward attacking.
 
