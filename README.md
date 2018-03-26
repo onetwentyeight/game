@@ -1,3 +1,5 @@
-# Video game idea
+# Ingrasel
 
-What on earth are you doing here, go to the actual website...
+Temporary Homepage
+
+1. [Characters](characters)
