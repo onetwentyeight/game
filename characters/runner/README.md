@@ -3,6 +3,7 @@
 The runner specializes in fast movement, and easy ability to infaltrate enemy lines.
 
 ## Overview
+
 Feild | Value
 ------------ | -------------
 Health | 200
@@ -12,6 +13,7 @@ Size | Very Small
 ## Deault Weapons
 
 ### Primary - Shotgun
+
 Feild | Value
 ------------ | -------------
 Clip Size | 8
@@ -25,6 +27,7 @@ Damage | 175
 Falloff | Large
 
 ### Secondary - Pistol
+
 Feild | Value
 ------------ | -------------
 Clip Size | 16
@@ -38,11 +41,13 @@ Damage | 24
 Falloff | Medium
 
 ### Meelee - Frying Pan
+
 Feild | Value
 ------------ | -------------
 Fire Rate | 1.00
 Acsess Speed | 1.15
 Holster Speed | 1.65
+Damage | 50
 
 ### Ability - Handy Heal
 
